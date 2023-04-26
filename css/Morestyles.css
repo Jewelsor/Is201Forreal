@@ -1,0 +1,25 @@
+.navbar{
+    font-size: medium; font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+;
+color: rebeccapurple;
+}
+ul{
+    font-style: italic;
+}
+body{background-color: rgb(243, 211, 224);}
+.heading{
+    font-family: cursive;
+    color: darkmagenta;
+}
+.Family{
+    font-family: cursive;
+    color: darkred;
+}
+.flowers{
+    font-family: cursive;
+    color: midnightblue;
+}
+.music{
+    font-family: cursive;
+    color: rgb(24, 118, 66);
+}
